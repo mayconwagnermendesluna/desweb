@@ -2,4 +2,3 @@
 
 ## Conteúdo do repositório
 
-### 1. Tópico I
